@@ -23,6 +23,6 @@ public class MainL {
         transactionProcessor.processTransaction(rewardCard,1000);
 
         System.out.println("Saldo final: "+card);
-        System.out.println("Saldo final: "+rewardCardx);
+        System.out.println("Saldo final: "+rewardCard);
     }
 }
